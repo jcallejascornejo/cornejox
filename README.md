@@ -1,14 +1,6 @@
-- 👋 Hi, I’m @cornejox
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-cornejox/cornejox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                                                        Buenas 👋, Soy Juan Manuel Callejas                                                        
 
 
-Buenas 👋, Soy Juan Manuel Callejas
-Estudiante apasionado de programación web🌟.
+
+
+![animation_500_kxa883sd](https://user-images.githubusercontent.com/96091638/189163745-d07d6155-580d-4174-8fa9-368202990052.gif)
